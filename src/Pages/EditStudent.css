@@ -1,0 +1,25 @@
+.editStudent{
+    display: flex;
+    margin-left: 34rem;
+}
+.addStudent{
+    background-color: rgb(63, 63, 185);
+    color: white;
+    padding: 2rem;
+    border: none;
+    cursor: pointer ;
+    /* margin:auto; */
+    margin: 1rem;
+    /* margin: 16rem 10rem; */
+    font-size: 1rem;
+    border-radius: 1rem;
+    text-decoration: none;
+}
+.choose{
+    text-align: center;
+    font-size: 2rem;
+    width: fit-content;
+    margin: auto;
+    margin-top: 8rem;
+    padding: 4rem;
+}

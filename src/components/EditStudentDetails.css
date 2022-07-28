@@ -1,0 +1,45 @@
+.student-form{
+    display: flex;
+    flex-direction: column;
+    width: 32rem;
+    margin: auto;
+    margin-top: 3rem;
+    padding: 1rem;
+    margin-bottom: 10rem;
+}
+.student-form h1{
+    margin-bottom: 1.2rem;
+    color: rgba(0, 0, 0, 0.655);
+}
+.input-heading{
+    margin: 0.3rem 0;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+input{
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+    border:1.5px solid black;
+    padding: 0.5rem;
+    font-weight: 400;
+}
+
+#submit{
+    margin-top: 1rem;
+    width: fit-content;
+    padding: 0.6rem;
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: rgb(63, 63, 185);
+    color: white;
+    border: none;
+    cursor: pointer ;
+    border-radius: 0.5rem;
+    text-decoration: none;
+}
+#submit:hover{
+    background-color: blue;
+}
+.error{
+    color: red;
+}

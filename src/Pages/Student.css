@@ -1,0 +1,13 @@
+.student-heading{
+    color: black;
+    margin-left: 8rem;
+    margin-top: 2rem;
+}
+.center{
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 10rem;
+}
+.error{
+    color: red;
+}
